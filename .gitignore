@@ -1,0 +1,10 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+
+.node-version
+.python-version
+node_modules
+.serverless
+
+.idea

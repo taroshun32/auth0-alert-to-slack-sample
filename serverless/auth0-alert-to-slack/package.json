@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "esbuild": "^0.14.25",
+    "serverless-esbuild": "^1.25.0"
+  },
+  "name": "auth0-alert-to-slack",
+  "dependencies": {
+    "@slack/web-api": "^6.8.1"
+  }
+}
